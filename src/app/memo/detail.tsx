@@ -22,7 +22,7 @@ const Detail = () => {
             </ScrollView>
 
             <CircleButton style={{ top: 160, bottom: 'auto' }}>
-            <Icon name='pencil' size={40} />
+            <Icon name='pencil' size={40} color='#ffffff'/>
             </CircleButton>
         </View>
     )
